@@ -44,7 +44,7 @@ function retweet(searchText) {
   );
 }
 
-// run every 60 seconds
+// run every 30 minutes
 setInterval(function () {
   retweet("#JusticeForKianjokomaBrothers OR #JusticeforEmmanuelandBenson");
-}, 60000);
+}, 1800000);
