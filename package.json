@@ -1,0 +1,14 @@
+{
+  "name": "justice-app",
+  "version": "1.0.0",
+  "description": "Twitter bot for justice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Kibuika",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
